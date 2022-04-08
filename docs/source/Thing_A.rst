@@ -1,4 +1,4 @@
-API
+Thing A
 ===
 
 Thing_A
