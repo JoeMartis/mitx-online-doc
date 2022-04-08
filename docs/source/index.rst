@@ -8,5 +8,5 @@ Contents
 
 .. toctree::
 
-   Thing 1
-   Thing 2
+   Thing A
+   Thing B
